@@ -38,7 +38,7 @@ Cronometro JS é um cronometro simples, com funções de iniciar contagem, pausa
   * red<br>
 
 - <span id="fontes">Fontes<br></span>
-  * Arial, Helvetica,sans-serif
+  * Arial, Helvetica, sans-serif
 
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
